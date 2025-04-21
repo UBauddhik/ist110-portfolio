@@ -10,5 +10,5 @@ permalink: /contact/
 - **Interests:** Offensive security, digital forensics, and building secure systems.
 
 ### Get in touch
-- Email: <your psu email>
-- LinkedIn: <your profile URL>
+- Email: <bpp5321@psu.edu>
+- LinkedIn: <www.linkedin.com/in/bauddhik>
